@@ -1,5 +1,7 @@
 # Bysykkel
 
+Offers information of maximum available, and actual current available bicycles at each location in Oslo.
+
 Installation on Ubuntu 16.04
 --------------------------------------
 
