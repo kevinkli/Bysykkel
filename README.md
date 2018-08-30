@@ -37,4 +37,4 @@ Format Web page	better,	improve	readability
 
 Note
 ----
-Change the api_token key in the "__init__.py" file with your own! 
+Change the api_token key in the init py file with your own! 
