@@ -34,3 +34,7 @@ In browser: localhost:<portnumber from above e.g. 8000>
 Todo
 ----
 Format Web page	better,	improve	readability
+
+Note
+----
+Change the api_token key in __init__.py file with your own! 
